@@ -43,8 +43,5 @@ The project integrates **machine learning, deep learning, and geospatial analysi
 - Expand flood modeling with **temporal prediction** for early warnings  
 - Deploy as a **real-time web or mobile application**  
 
----
 
-##  License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
